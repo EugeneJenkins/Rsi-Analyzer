@@ -1,0 +1,11 @@
+{
+  "name": "rsi-analyzer",
+  "version": "1.0.0",
+  "dependencies": {
+    "@binance/connector": "^1.7.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
